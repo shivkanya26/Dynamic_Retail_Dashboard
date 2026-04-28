@@ -70,6 +70,7 @@ Contains details about sales representatives and their respective regions.
    2. Add `Sales` and `Profit` as values.
    3. Create a **Line Chart** to display trends for Sales and Profit.
    4. Apply slicers to filter by category, market, or region dynamically.
+<img width="558" height="432" alt="image" src="https://github.com/user-attachments/assets/8b80e843-8582-4bdd-adf9-d067ebbe7fee" />
 
 ---
 
@@ -81,6 +82,7 @@ Contains details about sales representatives and their respective regions.
    2. Sort the table in descending order of Profit.
    3. Create a **Bar Chart** to visualize category-wise profit.
    4. Add slicers for interactivity.
+<img width="478" height="442" alt="image" src="https://github.com/user-attachments/assets/68dc78f6-56a6-4324-80f4-947141b3dccb" />
 
 ---
 
@@ -92,6 +94,7 @@ Contains details about sales representatives and their respective regions.
    2. Calculate percentage share using `=Sales / Total Sales * 100`.
    3. Create a **Pie Chart** or **Donut Chart** to display the sales share.
    4. Add labels to show percentage values dynamically.
+<img width="471" height="448" alt="image" src="https://github.com/user-attachments/assets/fa373789-4d7f-4556-b258-839a05784e79" />
 
 ---
 
@@ -102,6 +105,7 @@ Contains details about sales representatives and their respective regions.
    1. Create a **Pivot Table** with `Country` as rows and `Sales` as values.
    2. Sort the table in descending order of Sales.
    3. Use conditional formatting or a **Heatmap** to highlight top-performing countries.
+<img width="697" height="437" alt="image" src="https://github.com/user-attachments/assets/b34f3a4b-8947-46d0-84c5-9a498c80b20c" />
 
 ---
 
@@ -113,6 +117,7 @@ Contains details about sales representatives and their respective regions.
    2. Sort the table in descending order of Sales.
    3. Filter to display the top 5 Sub-Categories.
    4. Use a **Column Chart** to visualize results.
+<img width="568" height="428" alt="image" src="https://github.com/user-attachments/assets/0497f915-843a-4d1b-8361-9cd90d5d5a87" />
 
 ---
 
